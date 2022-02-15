@@ -1,0 +1,24 @@
+#Principais Comandos do Git
+
+Init: este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente.
+
+Clone: este comando clona o código de um repositório para sua manipulação em outro ambiente.
+
+Commit: este comando move os arquivos da state area para um repositório local.
+
+Add: este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit.
+
+Push: este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo.
+
+Pull: ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+
+Merge: este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+
+Log: este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
+
+Status: O comando status do Git fornece algumas informações sobre a branch em que você estiver no momento, como seu nome, se ela está atualizada em relação à master e quais arquivos foram alterados.
+
+Revert: Existem várias maneiras de desfazer nossas alterações local ou remotamente (dependendo da necessidade), mas devemos usar esses comandos com cuidado para evitar problemas.
+
+Merge: Quando você conclui o desenvolvimento em sua branch e tudo funciona bem, sem conflitos, a etapa final é mesclar as branches, isso é feito com o comando git merge.
+

@@ -1,0 +1,19 @@
+ -Fundamentos de Git - O que é?
+
+ Criado pelo engenheiro de software Linus Torvalds, conhecido por ter desenvolvido, também, o núcleo Linux, o GIT é um Sistema de Controle de Versões Distribuído. 
+ Um sistema de controle de versão é uma ferramenta que ajuda equipes a gerenciar alterações em código fonte ao longo do tempo.
+
+
+ -Fundamentos de GitHub - O que é?
+
+ As diferenças entre ele e o GIT estão nas interações proporcionadas pelo GitHub: funcionando de modo semelhante à uma rede social, o GitHub é hoje um dos maiores pontos de encontro  virtuais entre programadores de todo o mundo. O GitHub serve, fundamentalmente, para facilitar o controle de versões de um software ou aplicação.
+
+
+ -Git Bash
+
+O Git é o conjunto de programas de utilitários de linha de comando projetado para ser executado em ambientes de linha de comando no estilo Unix. Sistemas operacionais modernos, como o Linux e o macOS, incluem terminais integrados de linha de comando Unix. Então, o Linux e o macOS são sistemas operacionais complementares ao trabalhar com Git. Por outro lado, o Microsoft Windows usa o prompt de comando do Windows, ambiente de terminal que não é do Unix.
+
+ -O que é o Git Bash?
+
+O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados. O Shell é o padrão popular no Linux e no macOS. O Git Bash é o pacote que instala o Bash, alguns utilitários de bash comuns e o Git nos sistemas operacionais Windows.
+
